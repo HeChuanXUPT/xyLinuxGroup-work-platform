@@ -1,0 +1,22 @@
+body{
+	line-height:150%;
+	color:rgb(100,134,225);
+}
+.hc_input{
+	width:120px;
+	border:1px #87a6c3 solid;
+	background:#edeced;
+	color:rgb(100,134,225);
+}
+.hc_btn{
+	color:rgb(100,134,225);
+	height:40px;
+	width:100px;
+	font-size:16px;
+}
+.msg{
+	text-align:center;
+	margin-top:100px;
+	color:rgb(100,134,225);
+	font-size:200%;
+}
